@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 AI/ML Specialist and Mechanical Engineer with 3+ years of experience integrating structural design,<br>propulsion engineering, and data-driven intelligence to develop advanced autonomous systems. Delivered<br>bespoke UAV platforms for civil and defence applications, incorporating lightweight composites, hybrid<br>propulsion, and AI-enabled flight autonomy. Skilled in Python, TensorFlow, PyTorch, SQL, and statistical<br>modelling, with deep expertise in machine learning, deep learning, data analytics, and visualization.<br>Experienced in transforming complex engineering and operational data into actionable insights and uniting<br>hardware with software to create robust, explainable, and mission-ready solutions. Committed to advancing<br>AI-driven engineering with a particular focus on healthcare and cross-disciplinary innovation.
 
 
